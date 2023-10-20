@@ -3,9 +3,6 @@ Steps to build the file:
 1. Download the repository and unzip.
 2. It contains all necessary file containing the dataset and .cpp files.
 3. To Run Q1.cpp , simply write "make Q1" in the terminal.
-4. To Run Q2.cpp , simply write "make Q2" in terminal.
-5. To Run Q3.cpp , simply write "make Q3" in terminal.
-
 # Description Of Files 
 ReadCSV.h
 This file contains functions to read Journal , Books , Magzine and store in array of class object.
